@@ -1,4 +1,4 @@
-# 👋 Hola, soy Polaro
+# 👋 Hola, soy Pol Aroca Isart
 
 Soy desarrollador en formación con un enfoque práctico en el desarrollo de software, interesado en crear soluciones funcionales, claras y mantenibles. Actualmente estoy ampliando mis competencias técnicas a través de proyectos académicos y personales, aplicando buenas prácticas de programación y control de versiones.
 
@@ -30,10 +30,8 @@ En este perfil encontrarás repositorios relacionados con:
 
 - Prácticas académicas  
 - Ejercicios de programación  
-- Proyectos personales en evolución  
-
-Cada proyecto incluye su propia documentación para facilitar la comprensión del código y su propósito.
-
+- Proyectos personales en evolución
+- 
 ---
 
 ## 🌐 Enlaces importantes
